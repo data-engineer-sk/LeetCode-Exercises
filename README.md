@@ -1,6 +1,6 @@
 # LeetCode-Exercises
 ### This respository is about the Python Programming Training.
-#### This exercise includes
+#### This exercise is about the doing algorthium in python.  The following includes:-
 1) ArrayDiagonalSum.py 
 2) IntegerToRome.py
 3) longestSubString.py
